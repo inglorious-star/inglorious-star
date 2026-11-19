@@ -22,7 +22,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI Dev Fest 2026 hackathon (Team TriStack, my role: research): predicts low wallet balance and explains why in English and Bangla | Python · XGBoost · SHAP · FastAPI |
+| [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI Dev Fest 2026 hackathon project (Team TriStack): predicts low wallet balance and explains why in English and Bangla | Python · XGBoost · SHAP · FastAPI |
 | [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS Lab project: simulates OS task scheduling with priority-based preemption, resource-aware allocation (CPU, RAM, storage) and a live dashboard | Python · threading · heapq |
 | [**City Traffic Scene Simulation**](https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project) | Computer Graphics Lab project: animated 2D city with moving buses, buildings, trees and birds | C++ · OpenGL · FreeGLUT |
 
