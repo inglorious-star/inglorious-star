@@ -29,17 +29,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Fake News Detection** | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
+| [**Fake News Detection**](https://github.com/inglorious-star/Fake-News-Detection-NLP) | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
 | **Upay Cashflow Copilot** | AI hackathon project (2026): predicts low-balance situations in mobile wallets, explains why, in English and Bangla | Python · XGBoost · SHAP · Pandas |
 | **Smart Note Taking Webapp** | Verified users can create, edit and save notes, with a built-in calculator | HTML · CSS · JavaScript |
-<!-- TODO: add DIU Super Shop here with a one-line description and its stack -->
-
----|---|---|
-| [**Fake News Detection**](https://github.com/inglorious-star/Fake-News-Detection-NLP) | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
-| [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI hackathon project (2026): predicts low-balance situations in mobile wallets, explains why, in English and Bangla | Python · XGBoost · SHAP · Pandas |
-| [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS lab project: simulates a distributed system with task allocation, load balancing and priorities | Python (CLI) |
-| [**Smart Note Taking Webapp**](https://github.com/inglorious-star/Smart-Note-Taking-Webapp) | Verified users can create, edit and save notes, with a built-in calculator | HTML · CSS · JavaScript |
-| [**City Traffic Scene Simulation**](https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project) | Computer graphics project: animated city with roads, moving vehicles and buildings | C++ · OpenGL |
 <!-- TODO: add DIU Super Shop here with a one-line description and its stack -->
 
 ---
