@@ -23,6 +23,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI Dev Fest 2026 hackathon project (Team TriStack): predicts low wallet balance and explains why in English and Bangla | Python · XGBoost · SHAP · FastAPI |
+| [**Hotel Management Network**](https://github.com/inglorious-star/Hotel-Management-Network-Cisco-Packet-Tracer) | Computer Networks Lab project (team of 5): hotel network with VLANs, DHCP, routing, Wi-Fi access points and VoIP phones · [live site](https://inglorious-star.github.io/Hotel-Management-Network-Cisco-Packet-Tracer/) | Cisco Packet Tracer |
 | [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS Lab project: simulates OS task scheduling with priority-based preemption, resource-aware allocation (CPU, RAM, storage) and a live dashboard | Python · threading · heapq |
 | [**Icarus: Banglish Programming Language**](https://github.com/inglorious-star/Icarus-Banglish-Programming-Language) | Compiler Design Lab project (team of 5): a mini interpreted language with Bangla keywords like `dhor`, `lekh` and `jodi` | C · Flex · Bison |
 | [**City Traffic Scene Simulation**](https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project) | Computer Graphics Lab project: animated 2D city with moving buses, buildings, trees and birds | C++ · OpenGL · FreeGLUT |
@@ -50,6 +51,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql&perline=10" alt="Tools"/>
 </p>
+
+**Networking:** Cisco Packet Tracer · VLAN · DHCP · Routing · VoIP
 
 ---
 
