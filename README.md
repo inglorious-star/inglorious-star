@@ -22,6 +22,19 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS Lab project: simulates OS task scheduling with priority-based preemption, resource-aware allocation (CPU, RAM, storage) and a live dashboard | Python · threading · heapq |
+| [**City Traffic Scene Simulation**](https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project) | Computer Graphics Lab project: animated 2D city with moving buses, buildings, trees and birds | C++ · OpenGL · FreeGLUT |
+
+#### 🚧 Coming soon
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Fake News Detection** | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
+| **Upay Cashflow Copilot** | AI hackathon project (2026): predicts low-balance situations in mobile wallets, explains why, in English and Bangla | Python · XGBoost · SHAP · Pandas |
+| **Smart Note Taking Webapp** | Verified users can create, edit and save notes, with a built-in calculator | HTML · CSS · JavaScript |
+<!-- TODO: add DIU Super Shop here with a one-line description and its stack -->
+
+---|---|---|
 | [**Fake News Detection**](https://github.com/inglorious-star/Fake-News-Detection-NLP) | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
 | [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI hackathon project (2026): predicts low-balance situations in mobile wallets, explains why, in English and Bangla | Python · XGBoost · SHAP · Pandas |
 | [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS lab project: simulates a distributed system with task allocation, load balancing and priorities | Python (CLI) |
