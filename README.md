@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Fahim Montasir 👋</h1>
+<h3 align="center">CSE student at Daffodil International University · AI, data & cybersecurity</h3>
 
-<!--
-**inglorious-star/inglorious-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahim-montasir-678025283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=inglorious-star&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About me
+
+- 🎓 Final-year **Computer Science & Engineering** student at Daffodil International University (graduating Dec 2026), from Gazipur, Bangladesh
+- 🔬 Final year project: **Real-Time Fake News Detection System using NLP & Machine Learning**
+- 🛡️ Currently learning **AI-native cybersecurity & ethical hacking** (Ostad career track)
+- 👨‍🏫 Volunteer teacher at Daffodil Institute of Social Sciences (DISS)
+- 💡 Interested in: cybersecurity · networking · building with AI · working with data · problem solving
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Fake News Detection**](https://github.com/inglorious-star/Fake-News-Detection-NLP) | Final year project: classifies news as real or fake in real time using NLP and ML | Python · NLTK · Scikit-learn |
+| [**Upay Cashflow Copilot**](https://github.com/inglorious-star/Upay-Cashflow-Copilot) | AI hackathon project (2026): predicts low-balance situations in mobile wallets, explains why, in English and Bangla | Python · XGBoost · SHAP · Pandas |
+| [**Distributed Task Scheduler**](https://github.com/inglorious-star/Distributed-Task-Scheduler-OS-Project) | OS lab project: simulates a distributed system with task allocation, load balancing and priorities | Python (CLI) |
+| [**Smart Note Taking Webapp**](https://github.com/inglorious-star/Smart-Note-Taking-Webapp) | Verified users can create, edit and save notes, with a built-in calculator | HTML · CSS · JavaScript |
+| [**City Traffic Scene Simulation**](https://github.com/inglorious-star/City-Traffic-Scene-Simulation-Mini-Graphics-Project) | Computer graphics project: animated city with roads, moving vehicles and buildings | C++ · OpenGL |
+<!-- TODO: add DIU Super Shop here with a one-line description and its stack -->
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js&perline=10" alt="Languages"/>
+</p>
+
+**Data & AI:** Pandas · NumPy · Scikit-learn · XGBoost · SHAP · NLTK
+
+**Tools & platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql&perline=10" alt="Tools"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inglorious-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inglorious-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=inglorious-star&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+### 📫 Reach me
+
+Open to internships and junior roles in **software development, networking, AI/data or cybersecurity**. Connect on [LinkedIn](https://www.linkedin.com/in/fahim-montasir-678025283).
